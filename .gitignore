@@ -12,3 +12,6 @@ wheels/
 .python-version
 uv.lock
 .vscode/
+
+eng.traineddata
+src/eng.traineddata
