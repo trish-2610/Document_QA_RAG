@@ -27,7 +27,7 @@ The goal is to improve answer quality by grounding LLM responses in document con
 
 ### 3. Generate Embeddings
 - Convert each chunk into vector embeddings.
-- Embedding model planned: `all-MiniLM-L6-v2`.
+- Embedding model planned: `all-MiniLM-L6-v2` model.
 
 ### 4. Store in Vector Database
 - Store chunk embeddings in a vector DB for fast similarity search.
